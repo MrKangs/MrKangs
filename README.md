@@ -6,10 +6,11 @@
    <a href="https://www.linkedin.com/in/kennethleekang/" target="_blank"><img src="https://img.shields.io/badge/Kenneth_Kang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<p>
+<p align="center">
   👋&nbsp; Hi there! My name is Kenneth Kang who is a third year at Oregon State University. <br/> 
   I am currently majoring in Computer Science with a strong focus of Data Science 🗂 and Business Analytics 📊. <br/><br/>
-  
+</p>
+<p align="center">
   I like to play video games 🎮, badminton 🏸, and tennis 🎾 while programming fun and unique projects ⌨. <br/>
   I hope you find useful in my github repositories.</br>
 </p>
@@ -30,4 +31,5 @@
  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-                                                                                               
+                                                                                          
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKangs&show_icons=true&theme=cobalt)                  
