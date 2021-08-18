@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=KennethLeeKang&fontSize=70&animation=twinkling)
-
 <p align="center">
    <a href="https://mrkangs.net" target="_blank"><img src="https://img.shields.io/badge/MrKangs.net-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
    <a href="mailto:gykang00@gmail.com target="_blank"><img src="https://img.shields.io/badge/gykang00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
