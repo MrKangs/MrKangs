@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  👋&nbsp; Hi there! My name is Kenneth Kang who is a third year at Oregon State University. <br/> 
-  I am currently majoring in Computer Science with a strong focus of Data Science 🗂 and Business Analytics 📊. <br/><br/>
+  👋&nbsp; Hi there! My name is Kenneth Kang. I am in my third year at Oregon State University. <br/> 
+  I am currently majoring in Computer Science with a strong focus on Data Science 🗂 and Business Analytics 📊. <br/><br/>
 </p>
 <p align="center">
-  I like to play video games 🎮, badminton 🏸, and tennis 🎾 while programming fun and unique projects ⌨. <br/>
-  I hope you find useful in my github repositories.</br>
+  In addition, I like to play video games 🎮, badminton 🏸, and tennis 🎾 while programming fun and unique projects ⌨.<br/>
+  I hope you find it helpful in my GitHub repositories.</br>
 </p>
 
 ### 💪 Skills
