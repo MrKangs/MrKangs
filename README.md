@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  👋&nbsp; Hi there! My name is Kenneth Kang. I am in my third year at Oregon State University. <br/> 
+  👋&nbsp; Hi there! My name is Kenneth Kang. I am in my fourth year at Oregon State University. <br/> 
   I am currently majoring in Computer Science with a strong focus on Data Science 🗂 and Business Analytics 📊. <br/><br/>
 </p>
 <p align="center">
