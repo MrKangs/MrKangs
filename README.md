@@ -22,13 +22,18 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>                                                                                                    
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=Rust&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-skyblue?style=flat-square&logo=Docker&logoColor=white"/>
+  
 </p>             
                                                                                                      
 ### Tools
 <p>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=black"/>
+ <img src="https://img.shields.io/badge/MacOS-gray?style=flat-square&logo=MacOS&logoColor=black"/>
 </p>
                                                                                           
 ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKangs&show_icons=true&theme=cobalt)                  
